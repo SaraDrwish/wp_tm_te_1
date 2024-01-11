@@ -1,0 +1,28 @@
+
+/*
+Theme Name: themeBySara  
+Text Domain: themeBySara
+Description: themeBySara 
+Author: Sara Adel
+Author URI: http://example.com
+Template: themeBySara
+Version: 1.0.0
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+*/
+ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(56, 28, 23);
+    color:rgb(68, 42, 17) ;
+    font-size: 22px;
+}
+
+section{
+    margin: 8px auto;
+    text-align: center;
+    padding: 4px ;
+    background: rgb(240, 127, 255);
+}

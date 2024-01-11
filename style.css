@@ -1,0 +1,42 @@
+/*
+Theme Name: themeBySara1  
+Text Domain: themeBySara1
+Description: themeBySara1 
+Author: Sara Adel
+Author URI:https://6572dbbcce777565a5db7196--incomparable-manatee-a1580d.netlify.app/
+Template: themeBySara1
+Version: 1.0.0
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgb(48, 24, 12); */
+    color:rgb(119, 78, 40) ;
+    font-size: 20px;
+}
+
+body{
+    text-align: center;
+    background: rgb(190, 172, 190);
+}
+
+ul{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+
+a{
+    display: flex;
+    text-decoration: none;
+    
+}
+
+section{
+    background-color: rgb(120, 161, 130);
+}
+
+
